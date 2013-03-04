@@ -1,4 +1,6 @@
-
+/*
+ * UVa Online Judge - Problem 10071
+ */
 #include <iostream>
 
 int main()
